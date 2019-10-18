@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://fooyooquai.profilmedia.se/sitemap.xml
